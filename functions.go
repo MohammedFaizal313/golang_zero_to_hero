@@ -1,3 +1,5 @@
+
+package main
 /*
 A functions can take zero or more arguments
 in this example add takes two parameter as a int
@@ -98,7 +100,7 @@ Notice that type comes after the variable name
 
 
 // need to go throw this code deeper
-package main
+
 import "fmt"
 
 const(
