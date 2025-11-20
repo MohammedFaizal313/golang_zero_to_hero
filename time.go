@@ -1,12 +1,12 @@
-// package main
-// import (
-// 	"fmt"
-// 	"time"
-// )
-// func main(){
-// 	fmt.Println("Welcome to palyground!!")
-// 	fmt.Println("the time is ",time.Now())
-// }
+package main
+import (
+	"fmt"
+	"time"
+)
+func main(){
+	fmt.Println("Welcome to palyground!!")
+	fmt.Println("the time is ",time.Now())
+}
 
 // package main 
 // import(
