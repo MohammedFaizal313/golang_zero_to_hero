@@ -12,7 +12,6 @@ func main(){
 	y := []float64{3,1,4,2}
 	fmt.Println(mediaTwo(y))
 	fmt.Println("after mediaTwo",y)
-
 }
 
 func mediaOne(x []float64) float64 {
